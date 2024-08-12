@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=643CB8&width=435&lines=Ol%C3%A1%2C+eu+sou+Marcelo+Henrique!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=643CB8&width=435&lines=Ol%C3%A1%2C+eu+sou+Marcelo+Henrique+%F0%9F%98%9C)](https://git.io/typing-svg)
 
 <p align="left">Desenvolvedor Front-End, tendo iniciado no desenvolvimento em 2021, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado dia após dia, gosto bastante de encarar novos horizontes o que me faz aprender mais.
 
