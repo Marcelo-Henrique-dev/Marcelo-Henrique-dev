@@ -34,7 +34,7 @@ Se eu pudesse me definir em 3 palavras, certamente seriam: otimista, perseverant
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
 
-<img src="https://www.bing.com/images/create/create-an-image-of-a-cartoon-version-of-the-person/1-66ba1514c3ba46eaa9646b781c52ed35?id=VCTkdAnMevxgVtQIJGPQwg%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG2.LuKU.LAa_ocXYT.slhM3&frame=sydedg&skey=SzqIoWO1HKX9cAVevlpK8K0gTKIgaO4dWCKFj-0pnnU&FORM=SYDBIC" />
+<img src="img/OIG2.LuKU.LAa_ocXYT.jpg" />
 
 ###
 
