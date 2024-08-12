@@ -49,8 +49,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/Marcelo-Henrique-dev/Marcelo-Henrique-dev/blob/output/github-contribution- grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Marcelo-Henrique-dev&repo=Marcelo-Henrique-dev&theme=react)](https://github.com/Marcelo-Henrique-deve/Marcelo-Henrique-dev)
+![snake gif](https://github.com/Marcelo-Henrique-dev/Marcelo-Henrique-dev/blob/output/github-contribution-grid-snake.svg)
 
 ###
