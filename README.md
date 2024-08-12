@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=643CB8&width=435&lines=Ol%C3%A1%2C+eu+sou+Marcelo+Henrique+%F0%9F%98%9C)](https://git.io/typing-svg)
 
+<img align="right" src="./src/OIG2.LuKU.LAa_ocXYT.jpg" alt="logo Cartoon" width="300"/>
+
+###
+
 <p align="left">Desenvolvedor Front-End, tendo iniciado no desenvolvimento em 2021, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado dia após dia, gosto bastante de encarar novos horizontes o que me faz aprender mais.
 
 Possuo foco em desenvolvimento com HTML5, CSS3, JavaScript, ReactJs, TypeScript, Tailwind dentre outras tecnologias que uso para criar aplicações web/mobile de alto nível e valor, bem como procuro sempre me atualizar, estando agora me empenhando em tecnologias backend.
@@ -16,7 +20,21 @@ Se eu pudesse me definir em 3 palavras, certamente seriam: otimista, perseverant
 
 ###
 
-<div align="left">
+<div align="center">
+  <a href="https://www.instagram.com/m4rc3l0_h3nr1qu3/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:dvmarcelohenrique@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/marcelo-henrique-0a299019a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -34,21 +52,6 @@ Se eu pudesse me definir em 3 palavras, certamente seriam: otimista, perseverant
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
 
-<img src="./src/OIG2.LuKU.LAa_ocXYT.jpg" alt="logo Cartoon" />
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/m4rc3l0_h3nr1qu3/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:dvmarcelohenrique@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/marcelo-henrique-0a299019a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 
