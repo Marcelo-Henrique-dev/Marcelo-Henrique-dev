@@ -49,6 +49,5 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/Marcelo-Henrique-dev/Marcelo-Henrique-dev/blob/output/github-contribution-grid-snake.svg)
 
 ###
