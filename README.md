@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=30&pause=1000&color=643CB8&width=435&lines=Ol%C3%A1%2C+eu+sou+Marcelo+Henrique+%F0%9F%98%9C)](https://git.io/typing-svg)
 
-<img align="right" src="./src/OIG2.LuKU.LAa_ocXYT.jpg" alt="logo Cartoon" width="300"/>
+<img align="right" src="./src/OIG2.LuKU.LAa_ocXYT.jpg" alt="logo Cartoon" width="200"/>
 
 ###
 
