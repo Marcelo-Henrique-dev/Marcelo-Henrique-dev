@@ -49,6 +49,8 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/Marcelo-Henrique-dev/Marcelo-Henrique-dev/output/snake.svg](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)" alt="Snake animation" />
+![Snake animation](https://github.com/Marcelo-Henrique-dev/Marcelo-Henrique-dev/blob/output/github-contribution- grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Marcelo-Henrique-dev&repo=Marcelo-Henrique-dev&theme=react)](https://github.com/Marcelo-Henrique-deve/Marcelo-Henrique-dev)
 
 ###
