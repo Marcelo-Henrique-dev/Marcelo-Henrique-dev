@@ -7,6 +7,10 @@
 <p align="left">Desenvolvedor FullStack, tendo iniciado no desenvolvimento em 2021, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado dia após dia, gosto bastante de encarar novos horizontes o que me faz aprender mais.
 Possuo habilidades em desenvolvimento com ReactJs, TailWind, Java, SpringBoot, TypeScript, dentre outras tecnologias que uso para criar aplicações web/mobile de alto nível e valor, bem como procuro sempre me atualizar com as tendências da atualidade.</p>
 
+<br />
+<br />
+<br />
+
 ###
 
 <div align="center">
