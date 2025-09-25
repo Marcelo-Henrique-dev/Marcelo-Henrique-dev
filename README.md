@@ -47,7 +47,7 @@ Possuo habilidades em desenvolvimento com ReactJs, TailWind, Java, SpringBoot, T
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj9i0HBomVepR6AMsmIrZAuU1MOBwWiEtAtA&s" height="30" alt="Spring logo" />
+  <img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj9i0HBomVepR6AMsmIrZAuU1MOBwWiEtAtA&s](https://img.icons8.com/?size=512&id=90519&format=png)" height="30" alt="Spring logo" />
 </div>
 
 
