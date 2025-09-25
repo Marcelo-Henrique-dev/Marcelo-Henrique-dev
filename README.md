@@ -4,12 +4,8 @@
 
 ###
 
-<p align="left">Desenvolvedor Front-End, tendo iniciado no desenvolvimento em 2021, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado dia após dia, gosto bastante de encarar novos horizontes o que me faz aprender mais.
-
-Possuo foco em desenvolvimento com HTML5, CSS3, JavaScript, ReactJs, TypeScript, Tailwind dentre outras tecnologias que uso para criar aplicações web/mobile de alto nível e valor, bem como procuro sempre me atualizar, estando agora me empenhando em tecnologias backend.
-
-Me considero ágil e consistente em aprender uma nova linguagem e em adaptar à qualquer mudança, pronto para superar qualquer desafio!
-Se eu pudesse me definir em 3 palavras, certamente seriam: otimista, perseverante e esforçado! ;)</p>
+<p align="left">Desenvolvedor FullStack, tendo iniciado no desenvolvimento em 2021, me reconheço como entusiasta em novas tecnologias do mercado, com aprendizado dia após dia, gosto bastante de encarar novos horizontes o que me faz aprender mais.
+Possuo habilidades em desenvolvimento com ReactJs, TailWind, Java, SpringBoot, TypeScript, dentre outras tecnologias que uso para criar aplicações web/mobile de alto nível e valor, bem como procuro sempre me atualizar com as tendências da atualidade.</p>
 
 ###
 
@@ -50,6 +46,8 @@ Se eu pudesse me definir em 3 palavras, certamente seriam: otimista, perseverant
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj9i0HBomVepR6AMsmIrZAuU1MOBwWiEtAtA&s" height="30" alt="Spring logo" />
 </div>
 
 
